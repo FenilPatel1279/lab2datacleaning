@@ -1,6 +1,501 @@
-Product,City,Coupon Code,MetaInfo
-Keyboard,Calgary,SAVE10,A
-Monitor,Vancouver,SAVE20,B
-Smartphone,Montreal,,C
-Headphones,Toronto,SAVE10,D
-Laptop,Ottawa,,E
+Product,City,Coupon Code,Product_ID,Category,Brand,Province,Country,Population,Coupon_Description,Discount_Percent,Coupon_Expiry
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Monitor,Vancouver,SAVE20,P002,Displays,Dell,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Headphones,Calgary,SAVE20,P004,Audio Equipment,Sony,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Monitor,Toronto,SAVE10,P002,Displays,Dell,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Smartphone,Toronto,SAVE20,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Keyboard,Ottawa,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Monitor,Montreal,,P002,Displays,Dell,Quebec,Canada,1704694,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Keyboard,Montreal,SAVE10,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Monitor,Ottawa,SAVE10,P002,Displays,Dell,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Headphones,Calgary,SAVE10,P004,Audio Equipment,Sony,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Keyboard,Calgary,SAVE10,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Monitor,Montreal,,P002,Displays,Dell,Quebec,Canada,1704694,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Monitor,Ottawa,,P002,Displays,Dell,Ontario,Canada,934243,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Headphones,Ottawa,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Laptop,Calgary,SAVE20,P005,Computers,Lenovo,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Keyboard,Toronto,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Headphones,Montreal,SAVE20,P004,Audio Equipment,Sony,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Headphones,Calgary,SAVE10,P004,Audio Equipment,Sony,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Laptop,Ottawa,SAVE20,P005,Computers,Lenovo,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Monitor,Ottawa,,P002,Displays,Dell,Ontario,Canada,934243,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Laptop,Toronto,SAVE10,P005,Computers,Lenovo,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Headphones,Ottawa,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Headphones,Calgary,,P004,Audio Equipment,Sony,Alberta,Canada,1306784,,0,
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Vancouver,SAVE20,P005,Computers,Lenovo,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Keyboard,Montreal,SAVE10,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Smartphone,Toronto,SAVE20,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Headphones,Ottawa,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Smartphone,Ottawa,SAVE20,P003,Mobile Devices,Samsung,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Smartphone,Montreal,SAVE20,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Monitor,Vancouver,SAVE20,P002,Displays,Dell,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Laptop,Calgary,SAVE10,P005,Computers,Lenovo,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Laptop,Montreal,SAVE10,P005,Computers,Lenovo,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Headphones,Calgary,,P004,Audio Equipment,Sony,Alberta,Canada,1306784,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Headphones,Ottawa,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Laptop,Calgary,SAVE20,P005,Computers,Lenovo,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Keyboard,Ottawa,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Smartphone,Calgary,SAVE20,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Monitor,Calgary,SAVE10,P002,Displays,Dell,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Headphones,Montreal,SAVE20,P004,Audio Equipment,Sony,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Headphones,Vancouver,SAVE20,P004,Audio Equipment,Sony,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Keyboard,Toronto,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Headphones,Calgary,,P004,Audio Equipment,Sony,Alberta,Canada,1306784,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Monitor,Montreal,,P002,Displays,Dell,Quebec,Canada,1704694,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Keyboard,Toronto,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Laptop,Montreal,SAVE20,P005,Computers,Lenovo,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Laptop,Ottawa,SAVE10,P005,Computers,Lenovo,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Laptop,Toronto,SAVE10,P005,Computers,Lenovo,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Smartphone,Toronto,SAVE20,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Monitor,Montreal,,P002,Displays,Dell,Quebec,Canada,1704694,,0,
+Laptop,Vancouver,SAVE10,P005,Computers,Lenovo,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Calgary,,P004,Audio Equipment,Sony,Alberta,Canada,1306784,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Laptop,Montreal,SAVE20,P005,Computers,Lenovo,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Smartphone,Montreal,SAVE10,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Monitor,Toronto,SAVE10,P002,Displays,Dell,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Laptop,Vancouver,SAVE10,P005,Computers,Lenovo,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Toronto,SAVE10,P002,Displays,Dell,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Laptop,Toronto,SAVE10,P005,Computers,Lenovo,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Laptop,Vancouver,SAVE20,P005,Computers,Lenovo,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Smartphone,Vancouver,SAVE10,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Smartphone,Calgary,SAVE20,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Headphones,Ottawa,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Laptop,Ottawa,SAVE10,P005,Computers,Lenovo,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Headphones,Toronto,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Monitor,Toronto,SAVE20,P002,Displays,Dell,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Keyboard,Ottawa,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Smartphone,Calgary,SAVE10,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Monitor,Montreal,SAVE10,P002,Displays,Dell,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Headphones,Vancouver,SAVE10,P004,Audio Equipment,Sony,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Ottawa,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Headphones,Montreal,,P004,Audio Equipment,Sony,Quebec,Canada,1704694,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Monitor,Toronto,SAVE20,P002,Displays,Dell,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Keyboard,Montreal,SAVE10,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Keyboard,Ottawa,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Headphones,Toronto,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Headphones,Montreal,,P004,Audio Equipment,Sony,Quebec,Canada,1704694,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Laptop,Calgary,SAVE10,P005,Computers,Lenovo,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Monitor,Montreal,SAVE10,P002,Displays,Dell,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Monitor,Montreal,SAVE20,P002,Displays,Dell,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Monitor,Toronto,SAVE10,P002,Displays,Dell,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Smartphone,Vancouver,SAVE10,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Vancouver,SAVE20,P002,Displays,Dell,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Monitor,Ottawa,,P002,Displays,Dell,Ontario,Canada,934243,,0,
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Headphones,Calgary,,P004,Audio Equipment,Sony,Alberta,Canada,1306784,,0,
+Headphones,Montreal,,P004,Audio Equipment,Sony,Quebec,Canada,1704694,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Laptop,Montreal,SAVE20,P005,Computers,Lenovo,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Monitor,Toronto,SAVE10,P002,Displays,Dell,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Keyboard,Ottawa,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Headphones,Ottawa,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Monitor,Calgary,SAVE10,P002,Displays,Dell,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Headphones,Toronto,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Headphones,Toronto,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Keyboard,Toronto,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Monitor,Ottawa,SAVE10,P002,Displays,Dell,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Monitor,Ottawa,SAVE10,P002,Displays,Dell,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Monitor,Montreal,SAVE20,P002,Displays,Dell,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Headphones,Calgary,SAVE20,P004,Audio Equipment,Sony,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Headphones,Ottawa,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Smartphone,Vancouver,SAVE10,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Laptop,Calgary,SAVE10,P005,Computers,Lenovo,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Monitor,Toronto,SAVE20,P002,Displays,Dell,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Laptop,Ottawa,SAVE10,P005,Computers,Lenovo,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Laptop,Ottawa,SAVE10,P005,Computers,Lenovo,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Monitor,Ottawa,,P002,Displays,Dell,Ontario,Canada,934243,,0,
+Laptop,Ottawa,SAVE20,P005,Computers,Lenovo,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Headphones,Montreal,,P004,Audio Equipment,Sony,Quebec,Canada,1704694,,0,
+Headphones,Vancouver,SAVE20,P004,Audio Equipment,Sony,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Montreal,,P002,Displays,Dell,Quebec,Canada,1704694,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Monitor,Calgary,SAVE20,P002,Displays,Dell,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Headphones,Calgary,SAVE10,P004,Audio Equipment,Sony,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Keyboard,Montreal,SAVE10,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Smartphone,Montreal,SAVE20,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Keyboard,Vancouver,SAVE20,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Headphones,Montreal,SAVE20,P004,Audio Equipment,Sony,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Monitor,Ottawa,SAVE20,P002,Displays,Dell,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Headphones,Toronto,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Monitor,Toronto,SAVE20,P002,Displays,Dell,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Monitor,Ottawa,,P002,Displays,Dell,Ontario,Canada,934243,,0,
+Keyboard,Vancouver,SAVE20,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Headphones,Toronto,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Headphones,Toronto,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Laptop,Calgary,SAVE20,P005,Computers,Lenovo,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Headphones,Calgary,SAVE10,P004,Audio Equipment,Sony,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Laptop,Vancouver,SAVE20,P005,Computers,Lenovo,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Keyboard,Calgary,SAVE10,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Keyboard,Ottawa,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Keyboard,Toronto,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Monitor,Vancouver,SAVE10,P002,Displays,Dell,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Laptop,Calgary,SAVE20,P005,Computers,Lenovo,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Montreal,SAVE10,P005,Computers,Lenovo,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Ottawa,SAVE10,P002,Displays,Dell,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Headphones,Calgary,SAVE20,P004,Audio Equipment,Sony,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Headphones,Montreal,SAVE10,P004,Audio Equipment,Sony,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Monitor,Vancouver,SAVE20,P002,Displays,Dell,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Monitor,Ottawa,SAVE20,P002,Displays,Dell,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Ottawa,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Monitor,Toronto,SAVE20,P002,Displays,Dell,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Keyboard,Ottawa,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Laptop,Montreal,SAVE20,P005,Computers,Lenovo,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Laptop,Calgary,SAVE10,P005,Computers,Lenovo,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Laptop,Montreal,SAVE20,P005,Computers,Lenovo,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Keyboard,Toronto,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Headphones,Toronto,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Monitor,Montreal,,P002,Displays,Dell,Quebec,Canada,1704694,,0,
+Smartphone,Toronto,SAVE20,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Headphones,Toronto,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Laptop,Toronto,SAVE20,P005,Computers,Lenovo,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Monitor,Toronto,SAVE10,P002,Displays,Dell,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Keyboard,Calgary,SAVE10,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Smartphone,Toronto,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Smartphone,Calgary,SAVE10,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Headphones,Vancouver,SAVE20,P004,Audio Equipment,Sony,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Laptop,Toronto,SAVE10,P005,Computers,Lenovo,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Keyboard,Toronto,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Monitor,Montreal,SAVE20,P002,Displays,Dell,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Laptop,Calgary,SAVE10,P005,Computers,Lenovo,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Keyboard,Vancouver,SAVE10,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Ottawa,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Montreal,SAVE20,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Headphones,Montreal,SAVE20,P004,Audio Equipment,Sony,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Keyboard,Ottawa,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Vancouver,SAVE20,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Headphones,Montreal,,P004,Audio Equipment,Sony,Quebec,Canada,1704694,,0,
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Laptop,Vancouver,SAVE10,P005,Computers,Lenovo,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Laptop,Calgary,SAVE10,P005,Computers,Lenovo,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Headphones,Calgary,,P004,Audio Equipment,Sony,Alberta,Canada,1306784,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Keyboard,Vancouver,,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,,0,
+Headphones,Ottawa,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Headphones,Vancouver,SAVE20,P004,Audio Equipment,Sony,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Headphones,Calgary,SAVE10,P004,Audio Equipment,Sony,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Monitor,Ottawa,SAVE10,P002,Displays,Dell,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Smartphone,Toronto,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Monitor,Montreal,SAVE20,P002,Displays,Dell,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Laptop,Montreal,SAVE10,P005,Computers,Lenovo,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Laptop,Montreal,SAVE20,P005,Computers,Lenovo,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Laptop,Calgary,SAVE20,P005,Computers,Lenovo,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Monitor,Vancouver,SAVE10,P002,Displays,Dell,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Smartphone,Calgary,SAVE10,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Smartphone,Calgary,SAVE20,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Headphones,Vancouver,SAVE20,P004,Audio Equipment,Sony,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Monitor,Vancouver,SAVE20,P002,Displays,Dell,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Smartphone,Toronto,SAVE20,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Headphones,Vancouver,SAVE10,P004,Audio Equipment,Sony,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Montreal,SAVE20,P002,Displays,Dell,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Monitor,Montreal,SAVE10,P002,Displays,Dell,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Headphones,Calgary,,P004,Audio Equipment,Sony,Alberta,Canada,1306784,,0,
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Headphones,Vancouver,SAVE20,P004,Audio Equipment,Sony,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Laptop,Vancouver,SAVE20,P005,Computers,Lenovo,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Keyboard,Montreal,SAVE20,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Keyboard,Montreal,SAVE20,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Headphones,Montreal,SAVE10,P004,Audio Equipment,Sony,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Monitor,Ottawa,SAVE10,P002,Displays,Dell,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Ottawa,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Smartphone,Calgary,SAVE10,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Monitor,Calgary,,P002,Displays,Dell,Alberta,Canada,1306784,,0,
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Keyboard,Ottawa,,P001,Computer Accessories,LogiTech,Ontario,Canada,934243,,0,
+Keyboard,Vancouver,SAVE20,P001,Computer Accessories,LogiTech,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Headphones,Montreal,SAVE20,P004,Audio Equipment,Sony,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Headphones,Calgary,SAVE20,P004,Audio Equipment,Sony,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Toronto,,P005,Computers,Lenovo,Ontario,Canada,2794356,,0,
+Monitor,Ottawa,SAVE10,P002,Displays,Dell,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Headphones,Montreal,SAVE10,P004,Audio Equipment,Sony,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Headphones,Toronto,SAVE20,P004,Audio Equipment,Sony,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Smartphone,Montreal,SAVE20,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Smartphone,Vancouver,,P003,Mobile Devices,Samsung,British Columbia,Canada,631486,,0,
+Laptop,Ottawa,SAVE20,P005,Computers,Lenovo,Ontario,Canada,934243,20% off on orders above $100,20,2023-06-30
+Smartphone,Toronto,SAVE20,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
+Laptop,Montreal,SAVE10,P005,Computers,Lenovo,Quebec,Canada,1704694,10% off on total order,10,2023-12-31
+Laptop,Calgary,,P005,Computers,Lenovo,Alberta,Canada,1306784,,0,
+Laptop,Vancouver,SAVE20,P005,Computers,Lenovo,British Columbia,Canada,631486,20% off on orders above $100,20,2023-06-30
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Laptop,Toronto,SAVE10,P005,Computers,Lenovo,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Laptop,Vancouver,SAVE10,P005,Computers,Lenovo,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Smartphone,Calgary,SAVE10,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Keyboard,Calgary,SAVE20,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Keyboard,Montreal,,P001,Computer Accessories,LogiTech,Quebec,Canada,1704694,,0,
+Smartphone,Ottawa,SAVE10,P003,Mobile Devices,Samsung,Ontario,Canada,934243,10% off on total order,10,2023-12-31
+Laptop,Ottawa,,P005,Computers,Lenovo,Ontario,Canada,934243,,0,
+Monitor,Vancouver,,P002,Displays,Dell,British Columbia,Canada,631486,,0,
+Monitor,Toronto,,P002,Displays,Dell,Ontario,Canada,2794356,,0,
+Headphones,Ottawa,,P004,Audio Equipment,Sony,Ontario,Canada,934243,,0,
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Keyboard,Toronto,SAVE10,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Headphones,Toronto,,P004,Audio Equipment,Sony,Ontario,Canada,2794356,,0,
+Smartphone,Calgary,,P003,Mobile Devices,Samsung,Alberta,Canada,1306784,,0,
+Smartphone,Ottawa,,P003,Mobile Devices,Samsung,Ontario,Canada,934243,,0,
+Smartphone,Montreal,,P003,Mobile Devices,Samsung,Quebec,Canada,1704694,,0,
+Laptop,Montreal,,P005,Computers,Lenovo,Quebec,Canada,1704694,,0,
+Laptop,Calgary,SAVE20,P005,Computers,Lenovo,Alberta,Canada,1306784,20% off on orders above $100,20,2023-06-30
+Laptop,Vancouver,,P005,Computers,Lenovo,British Columbia,Canada,631486,,0,
+Keyboard,Toronto,,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,,0,
+Keyboard,Calgary,,P001,Computer Accessories,LogiTech,Alberta,Canada,1306784,,0,
+Monitor,Toronto,SAVE10,P002,Displays,Dell,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Monitor,Vancouver,SAVE10,P002,Displays,Dell,British Columbia,Canada,631486,10% off on total order,10,2023-12-31
+Monitor,Montreal,,P002,Displays,Dell,Quebec,Canada,1704694,,0,
+Laptop,Montreal,SAVE20,P005,Computers,Lenovo,Quebec,Canada,1704694,20% off on orders above $100,20,2023-06-30
+Headphones,Vancouver,,P004,Audio Equipment,Sony,British Columbia,Canada,631486,,0,
+Smartphone,Toronto,,P003,Mobile Devices,Samsung,Ontario,Canada,2794356,,0,
+Laptop,Calgary,SAVE10,P005,Computers,Lenovo,Alberta,Canada,1306784,10% off on total order,10,2023-12-31
+Headphones,Toronto,SAVE10,P004,Audio Equipment,Sony,Ontario,Canada,2794356,10% off on total order,10,2023-12-31
+Keyboard,Toronto,SAVE20,P001,Computer Accessories,LogiTech,Ontario,Canada,2794356,20% off on orders above $100,20,2023-06-30
