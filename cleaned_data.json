@@ -6,9 +6,7 @@
     "price": 533.07,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 733
+    "shipping_city": "Calgary"
   },
   {
     "date": "11/21/2023",
@@ -17,9 +15,7 @@
     "price": 1429.51,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 553
+    "shipping_city": "Vancouver"
   },
   {
     "date": "06/28/2023",
@@ -28,9 +24,7 @@
     "price": 1139.69,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 699
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/16/2023",
@@ -39,9 +33,7 @@
     "price": 1063.77,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 862
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/14/2023",
@@ -50,9 +42,7 @@
     "price": 1363.86,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 805
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/07/2023",
@@ -61,9 +51,7 @@
     "price": 594.97,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 659
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/18/2023",
@@ -72,9 +60,7 @@
     "price": 154.06,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 556
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/14/2023",
@@ -83,9 +69,7 @@
     "price": 415.09,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 713
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/12/2023",
@@ -94,9 +78,7 @@
     "price": 995.17,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 835
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/17/2023",
@@ -105,20 +87,16 @@
     "price": 137.6,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 557
+    "shipping_city": "Vancouver"
   },
   {
     "date": "05/28/2023",
     "customer_id": "CUST1010",
     "product": "Keyboard",
-    "price": 99.99,
+    "price": 586.26,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 730
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/10/2023",
@@ -127,9 +105,7 @@
     "price": 486.31,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 656
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/07/2023",
@@ -138,9 +114,7 @@
     "price": 1282.73,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 781
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/12/2023",
@@ -149,9 +123,7 @@
     "price": 1004.74,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 593
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/28/2023",
@@ -160,9 +132,7 @@
     "price": 553.16,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 546
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/07/2023",
@@ -171,9 +141,7 @@
     "price": 618.82,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 871
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/17/2023",
@@ -182,9 +150,7 @@
     "price": 749.87,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 771
+    "shipping_city": "Calgary"
   },
   {
     "date": "09/29/2023",
@@ -193,9 +159,7 @@
     "price": 516.53,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 606
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/08/2023",
@@ -204,9 +168,7 @@
     "price": 343.07,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 566
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/04/2023",
@@ -215,9 +177,7 @@
     "price": 916.84,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 693
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/08/2023",
@@ -225,10 +185,8 @@
     "product": "Monitor",
     "price": 441.99,
     "quantity": 1,
-    "coupon_code": "N/A",
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 839
+    "coupon_code": NaN,
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/25/2023",
@@ -237,9 +195,7 @@
     "price": 572.3,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 794
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/31/2023",
@@ -248,9 +204,7 @@
     "price": 1428.96,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 847
+    "shipping_city": "Montreal"
   },
   {
     "date": "11/20/2023",
@@ -259,9 +213,7 @@
     "price": 210.31,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 554
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/30/2023",
@@ -270,9 +222,7 @@
     "price": 888.35,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 728
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/11/2023",
@@ -281,9 +231,7 @@
     "price": 1162.96,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 836
+    "shipping_city": "Vancouver"
   },
   {
     "date": "05/18/2023",
@@ -292,9 +240,7 @@
     "price": 528.2,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 740
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/12/2023",
@@ -303,9 +249,7 @@
     "price": 1417.91,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 715
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/04/2023",
@@ -314,9 +258,7 @@
     "price": 1276.48,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 631
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/15/2023",
@@ -325,20 +267,16 @@
     "price": 481.74,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 863
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/22/2023",
     "customer_id": "CUST1030",
     "product": "Keyboard",
-    "price": 0.0,
+    "price": 651.56,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 736
+    "shipping_city": "Calgary"
   },
   {
     "date": "12/26/2023",
@@ -347,9 +285,7 @@
     "price": 1102.41,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 518
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/28/2023",
@@ -358,9 +294,7 @@
     "price": 1329.28,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 730
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/19/2023",
@@ -369,9 +303,7 @@
     "price": 1088.1,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 708
+    "shipping_city": "Montreal"
   },
   {
     "date": "07/02/2023",
@@ -380,9 +312,7 @@
     "price": 498.33,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 695
+    "shipping_city": "Toronto"
   },
   {
     "date": "03/24/2023",
@@ -391,9 +321,7 @@
     "price": 878.43,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 795
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/05/2023",
@@ -402,9 +330,7 @@
     "price": 1116.13,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 783
+    "shipping_city": "Ottawa"
   },
   {
     "date": "10/28/2023",
@@ -413,9 +339,7 @@
     "price": 1334.22,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 577
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/21/2023",
@@ -424,9 +348,7 @@
     "price": 1195.32,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 553
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/23/2023",
@@ -435,9 +357,7 @@
     "price": 1295.53,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 765
+    "shipping_city": "Vancouver"
   },
   {
     "date": "09/14/2023",
@@ -446,9 +366,7 @@
     "price": 962.72,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 621
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/08/2023",
@@ -457,9 +375,7 @@
     "price": 220.75,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 536
+    "shipping_city": "Calgary"
   },
   {
     "date": "01/14/2023",
@@ -468,9 +384,7 @@
     "price": 544.61,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 864
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/28/2023",
@@ -479,9 +393,7 @@
     "price": 668.75,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 819
+    "shipping_city": "Calgary"
   },
   {
     "date": "12/29/2023",
@@ -490,9 +402,7 @@
     "price": 447.2,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 515
+    "shipping_city": "Calgary"
   },
   {
     "date": "01/10/2023",
@@ -501,9 +411,7 @@
     "price": 239.97,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 868
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/15/2023",
@@ -512,9 +420,7 @@
     "price": 83.86,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 743
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/21/2023",
@@ -523,9 +429,7 @@
     "price": 918.72,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 614
+    "shipping_city": "Ottawa"
   },
   {
     "date": "09/06/2023",
@@ -534,9 +438,7 @@
     "price": 744.64,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 629
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/19/2023",
@@ -545,9 +447,7 @@
     "price": 1442.63,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 769
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/09/2023",
@@ -556,9 +456,7 @@
     "price": 1323.24,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 838
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/09/2023",
@@ -567,9 +465,7 @@
     "price": 673.29,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 718
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/29/2023",
@@ -578,9 +474,7 @@
     "price": 1468.08,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 729
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/23/2023",
@@ -589,9 +483,7 @@
     "price": 180.9,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 855
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/07/2023",
@@ -600,9 +492,7 @@
     "price": 308.0,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 720
+    "shipping_city": "Vancouver"
   },
   {
     "date": "09/04/2023",
@@ -611,9 +501,7 @@
     "price": 917.07,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 631
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/18/2023",
@@ -622,9 +510,7 @@
     "price": 1230.81,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 740
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/07/2023",
@@ -633,9 +519,7 @@
     "price": 1359.54,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 871
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/19/2023",
@@ -644,9 +528,7 @@
     "price": 1386.84,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 708
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/11/2023",
@@ -655,9 +537,7 @@
     "price": 527.12,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 655
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/14/2023",
@@ -666,9 +546,7 @@
     "price": 633.1,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 774
+    "shipping_city": "Ottawa"
   },
   {
     "date": "10/25/2023",
@@ -677,9 +555,7 @@
     "price": 1383.24,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 580
+    "shipping_city": "Vancouver"
   },
   {
     "date": "06/21/2023",
@@ -688,9 +564,7 @@
     "price": 783.4,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 706
+    "shipping_city": "Toronto"
   },
   {
     "date": "06/14/2023",
@@ -699,9 +573,7 @@
     "price": 998.85,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 713
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/01/2023",
@@ -710,9 +582,7 @@
     "price": 1495.98,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 877
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/25/2023",
@@ -721,9 +591,7 @@
     "price": 250.73,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 519
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/29/2023",
@@ -732,9 +600,7 @@
     "price": 991.68,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 759
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/12/2023",
@@ -743,9 +609,7 @@
     "price": 1093.24,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 776
+    "shipping_city": "Calgary"
   },
   {
     "date": "02/07/2023",
@@ -754,9 +618,7 @@
     "price": 1337.98,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 840
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/30/2023",
@@ -765,9 +627,7 @@
     "price": 286.54,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 667
+    "shipping_city": "Montreal"
   },
   {
     "date": "05/21/2023",
@@ -776,9 +636,7 @@
     "price": 1213.28,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 737
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/03/2023",
@@ -787,9 +645,7 @@
     "price": 387.9,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 571
+    "shipping_city": "Toronto"
   },
   {
     "date": "03/23/2023",
@@ -798,9 +654,7 @@
     "price": 672.3,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 796
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/10/2023",
@@ -809,9 +663,7 @@
     "price": 266.85,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 837
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/18/2023",
@@ -820,9 +672,7 @@
     "price": 905.04,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 829
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/21/2023",
@@ -831,9 +681,7 @@
     "price": 1318.16,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 857
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/18/2023",
@@ -842,9 +690,7 @@
     "price": 857.21,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 770
+    "shipping_city": "Ottawa"
   },
   {
     "date": "11/23/2023",
@@ -853,9 +699,7 @@
     "price": 1467.99,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 551
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/05/2023",
@@ -864,9 +708,7 @@
     "price": 1026.34,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 873
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/03/2023",
@@ -875,9 +717,7 @@
     "price": 167.52,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 724
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/27/2023",
@@ -886,9 +726,7 @@
     "price": 876.91,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 517
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/12/2023",
@@ -897,9 +735,7 @@
     "price": 224.3,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 562
+    "shipping_city": "Vancouver"
   },
   {
     "date": "06/14/2023",
@@ -908,9 +744,7 @@
     "price": 1400.93,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 713
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/14/2023",
@@ -919,9 +753,7 @@
     "price": 870.41,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 591
+    "shipping_city": "Montreal"
   },
   {
     "date": "07/10/2023",
@@ -930,9 +762,7 @@
     "price": 1394.58,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 687
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/01/2023",
@@ -941,9 +771,7 @@
     "price": 1234.67,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 604
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/27/2023",
@@ -952,9 +780,7 @@
     "price": 1131.04,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 792
+    "shipping_city": "Ottawa"
   },
   {
     "date": "07/28/2023",
@@ -963,9 +789,7 @@
     "price": 227.33,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 669
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/05/2023",
@@ -974,9 +798,7 @@
     "price": 692.02,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 539
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/18/2023",
@@ -985,9 +807,7 @@
     "price": 1312.88,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 648
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/24/2023",
@@ -996,9 +816,7 @@
     "price": 1273.89,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 854
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/11/2023",
@@ -1007,9 +825,7 @@
     "price": 106.08,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 594
+    "shipping_city": "Vancouver"
   },
   {
     "date": "09/09/2023",
@@ -1018,9 +834,7 @@
     "price": 1274.77,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 626
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/05/2023",
@@ -1029,9 +843,7 @@
     "price": 516.24,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 661
+    "shipping_city": "Ottawa"
   },
   {
     "date": "10/16/2023",
@@ -1040,9 +852,7 @@
     "price": 1429.15,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 589
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/06/2023",
@@ -1051,9 +861,7 @@
     "price": 1312.56,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 691
+    "shipping_city": "Toronto"
   },
   {
     "date": "08/01/2023",
@@ -1062,9 +870,7 @@
     "price": 927.66,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 665
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/23/2023",
@@ -1073,9 +879,7 @@
     "price": 514.74,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 824
+    "shipping_city": "Vancouver"
   },
   {
     "date": "08/21/2023",
@@ -1084,9 +888,7 @@
     "price": 1400.56,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 645
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/25/2023",
@@ -1095,9 +897,7 @@
     "price": 526.43,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 763
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/10/2023",
@@ -1106,9 +906,7 @@
     "price": 502.99,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 595
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/26/2023",
@@ -1117,9 +915,7 @@
     "price": 1264.7,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 579
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/19/2023",
@@ -1128,9 +924,7 @@
     "price": 715.69,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 586
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/15/2023",
@@ -1139,9 +933,7 @@
     "price": 443.18,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 773
+    "shipping_city": "Ottawa"
   },
   {
     "date": "11/28/2023",
@@ -1150,9 +942,7 @@
     "price": 1107.28,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 546
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/12/2023",
@@ -1161,9 +951,7 @@
     "price": 474.57,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 654
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/11/2023",
@@ -1172,9 +960,7 @@
     "price": 152.33,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 594
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/23/2023",
@@ -1183,9 +969,7 @@
     "price": 1198.88,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 551
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/20/2023",
@@ -1194,9 +978,7 @@
     "price": 592.52,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 858
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/22/2023",
@@ -1205,9 +987,7 @@
     "price": 534.22,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 644
+    "shipping_city": "Calgary"
   },
   {
     "date": "12/06/2023",
@@ -1216,9 +996,7 @@
     "price": 655.5,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 538
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/11/2023",
@@ -1227,9 +1005,7 @@
     "price": 296.62,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 836
+    "shipping_city": "Toronto"
   },
   {
     "date": "03/19/2023",
@@ -1238,9 +1014,7 @@
     "price": 1315.04,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 800
+    "shipping_city": "Calgary"
   },
   {
     "date": "01/06/2023",
@@ -1249,9 +1023,7 @@
     "price": 1308.76,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 872
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/20/2023",
@@ -1260,9 +1032,7 @@
     "price": 96.39,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 524
+    "shipping_city": "Montreal"
   },
   {
     "date": "07/18/2023",
@@ -1271,9 +1041,7 @@
     "price": 189.05,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 679
+    "shipping_city": "Vancouver"
   },
   {
     "date": "03/15/2023",
@@ -1282,9 +1050,7 @@
     "price": 1470.16,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 804
+    "shipping_city": "Ottawa"
   },
   {
     "date": "09/13/2023",
@@ -1293,9 +1059,7 @@
     "price": 639.51,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 622
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/10/2023",
@@ -1304,9 +1068,7 @@
     "price": 305.59,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 656
+    "shipping_city": "Toronto"
   },
   {
     "date": "08/18/2023",
@@ -1315,9 +1077,7 @@
     "price": 1155.73,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 648
+    "shipping_city": "Toronto"
   },
   {
     "date": "03/18/2023",
@@ -1326,9 +1086,7 @@
     "price": 1116.43,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 801
+    "shipping_city": "Montreal"
   },
   {
     "date": "04/03/2023",
@@ -1337,9 +1095,7 @@
     "price": 995.71,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 785
+    "shipping_city": "Ottawa"
   },
   {
     "date": "11/12/2023",
@@ -1348,9 +1104,7 @@
     "price": 772.47,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 562
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/18/2023",
@@ -1359,9 +1113,7 @@
     "price": 66.39,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 829
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/22/2023",
@@ -1370,9 +1122,7 @@
     "price": 1146.62,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 736
+    "shipping_city": "Montreal"
   },
   {
     "date": "07/06/2023",
@@ -1381,9 +1131,7 @@
     "price": 421.41,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 691
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/11/2023",
@@ -1392,9 +1140,7 @@
     "price": 1440.28,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 563
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/21/2023",
@@ -1403,9 +1149,7 @@
     "price": 490.15,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 676
+    "shipping_city": "Calgary"
   },
   {
     "date": "12/09/2023",
@@ -1414,9 +1158,7 @@
     "price": 1302.34,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 535
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/30/2023",
@@ -1425,9 +1167,7 @@
     "price": 842.38,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 575
+    "shipping_city": "Ottawa"
   },
   {
     "date": "09/01/2023",
@@ -1436,9 +1176,7 @@
     "price": 1274.09,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 634
+    "shipping_city": "Montreal"
   },
   {
     "date": "11/28/2023",
@@ -1447,9 +1185,7 @@
     "price": 1023.85,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 546
+    "shipping_city": "Vancouver"
   },
   {
     "date": "08/21/2023",
@@ -1458,9 +1194,7 @@
     "price": 354.65,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 645
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/21/2023",
@@ -1469,9 +1203,7 @@
     "price": 1022.97,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 584
+    "shipping_city": "Montreal"
   },
   {
     "date": "11/29/2023",
@@ -1480,9 +1212,7 @@
     "price": 1168.58,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 545
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/07/2023",
@@ -1491,9 +1221,7 @@
     "price": 1177.51,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 871
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/05/2023",
@@ -1502,9 +1230,7 @@
     "price": 1345.35,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 814
+    "shipping_city": "Ottawa"
   },
   {
     "date": "02/10/2023",
@@ -1513,9 +1239,7 @@
     "price": 320.74,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 837
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/01/2023",
@@ -1524,9 +1248,7 @@
     "price": 382.24,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 543
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/06/2023",
@@ -1535,9 +1257,7 @@
     "price": 1138.75,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 538
+    "shipping_city": "Ottawa"
   },
   {
     "date": "11/22/2023",
@@ -1546,9 +1266,7 @@
     "price": 769.98,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 552
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/29/2023",
@@ -1557,9 +1275,7 @@
     "price": 586.61,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 576
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/04/2023",
@@ -1568,9 +1284,7 @@
     "price": 434.18,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 784
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/21/2023",
@@ -1579,9 +1293,7 @@
     "price": 233.07,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 857
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/05/2023",
@@ -1590,9 +1302,7 @@
     "price": 1344.96,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 873
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/22/2023",
@@ -1601,9 +1311,7 @@
     "price": 296.74,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 825
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/29/2023",
@@ -1612,9 +1320,7 @@
     "price": 515.08,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 668
+    "shipping_city": "Vancouver"
   },
   {
     "date": "08/25/2023",
@@ -1623,9 +1329,7 @@
     "price": 187.68,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 641
+    "shipping_city": "Vancouver"
   },
   {
     "date": "08/20/2023",
@@ -1634,9 +1338,7 @@
     "price": 1269.27,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 646
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/19/2023",
@@ -1645,9 +1347,7 @@
     "price": 476.3,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 647
+    "shipping_city": "Calgary"
   },
   {
     "date": "12/01/2023",
@@ -1656,9 +1356,7 @@
     "price": 450.44,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 543
+    "shipping_city": "Vancouver"
   },
   {
     "date": "05/31/2023",
@@ -1667,9 +1365,7 @@
     "price": 1413.42,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 727
+    "shipping_city": "Ottawa"
   },
   {
     "date": "07/04/2023",
@@ -1678,9 +1374,7 @@
     "price": 795.9,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 693
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/02/2023",
@@ -1689,9 +1383,7 @@
     "price": 335.89,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 542
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/16/2023",
@@ -1700,9 +1392,7 @@
     "price": 823.68,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 558
+    "shipping_city": "Vancouver"
   },
   {
     "date": "03/09/2023",
@@ -1711,9 +1401,7 @@
     "price": 806.85,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 810
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/27/2023",
@@ -1722,9 +1410,7 @@
     "price": 1064.96,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 792
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/30/2023",
@@ -1733,9 +1419,7 @@
     "price": 1255.46,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 636
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/13/2023",
@@ -1744,9 +1428,7 @@
     "price": 1319.65,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 592
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/13/2023",
@@ -1755,9 +1437,7 @@
     "price": 1443.86,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 775
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/10/2023",
@@ -1766,9 +1446,7 @@
     "price": 800.49,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 534
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/15/2023",
@@ -1777,9 +1455,7 @@
     "price": 73.49,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 529
+    "shipping_city": "Ottawa"
   },
   {
     "date": "12/23/2023",
@@ -1788,9 +1464,7 @@
     "price": 1145.48,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 521
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/06/2023",
@@ -1799,9 +1473,7 @@
     "price": 1365.64,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 568
+    "shipping_city": "Calgary"
   },
   {
     "date": "01/02/2023",
@@ -1810,9 +1482,7 @@
     "price": 749.3,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 876
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/27/2023",
@@ -1821,9 +1491,7 @@
     "price": 748.13,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 792
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/27/2023",
@@ -1832,9 +1500,7 @@
     "price": 1357.59,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 792
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/30/2023",
@@ -1843,9 +1509,7 @@
     "price": 401.48,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 789
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/27/2023",
@@ -1854,9 +1518,7 @@
     "price": 338.83,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 851
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/06/2023",
@@ -1865,9 +1527,7 @@
     "price": 668.29,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 752
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/09/2023",
@@ -1876,9 +1536,7 @@
     "price": 510.38,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 565
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/13/2023",
@@ -1887,9 +1545,7 @@
     "price": 159.53,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 592
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/15/2023",
@@ -1898,9 +1554,7 @@
     "price": 222.32,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 863
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/27/2023",
@@ -1909,9 +1563,7 @@
     "price": 603.75,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 608
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/13/2023",
@@ -1920,9 +1572,7 @@
     "price": 895.22,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 745
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/03/2023",
@@ -1931,9 +1581,7 @@
     "price": 169.89,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 632
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/22/2023",
@@ -1942,9 +1590,7 @@
     "price": 661.79,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 675
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/14/2023",
@@ -1953,9 +1599,7 @@
     "price": 1410.94,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 864
+    "shipping_city": "Toronto"
   },
   {
     "date": "06/26/2023",
@@ -1964,9 +1608,7 @@
     "price": 75.71,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 701
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/07/2023",
@@ -1975,9 +1617,7 @@
     "price": 491.32,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 720
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/16/2023",
@@ -1986,9 +1626,7 @@
     "price": 909.79,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 619
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/19/2023",
@@ -1997,9 +1635,7 @@
     "price": 633.8,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 828
+    "shipping_city": "Calgary"
   },
   {
     "date": "09/05/2023",
@@ -2008,9 +1644,7 @@
     "price": 882.59,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 630
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/08/2023",
@@ -2019,9 +1653,7 @@
     "price": 265.81,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 597
+    "shipping_city": "Montreal"
   },
   {
     "date": "04/20/2023",
@@ -2030,9 +1662,7 @@
     "price": 1434.98,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 768
+    "shipping_city": "Toronto"
   },
   {
     "date": "08/16/2023",
@@ -2041,9 +1671,7 @@
     "price": 693.9,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 650
+    "shipping_city": "Ottawa"
   },
   {
     "date": "07/08/2023",
@@ -2052,9 +1680,7 @@
     "price": 1358.31,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 689
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/26/2023",
@@ -2063,9 +1689,7 @@
     "price": 1016.92,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 548
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/28/2023",
@@ -2074,9 +1698,7 @@
     "price": 1234.55,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 577
+    "shipping_city": "Toronto"
   },
   {
     "date": "03/23/2023",
@@ -2085,9 +1707,7 @@
     "price": 399.42,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 796
+    "shipping_city": "Toronto"
   },
   {
     "date": "06/04/2023",
@@ -2096,9 +1716,7 @@
     "price": 1279.13,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 723
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/09/2023",
@@ -2107,9 +1725,7 @@
     "price": 394.84,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 869
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/14/2023",
@@ -2118,9 +1734,7 @@
     "price": 629.91,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 652
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/15/2023",
@@ -2129,9 +1743,7 @@
     "price": 1047.75,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 529
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/04/2023",
@@ -2140,9 +1752,7 @@
     "price": 1061.02,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 662
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/06/2023",
@@ -2151,9 +1761,7 @@
     "price": 1080.27,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 813
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/02/2023",
@@ -2162,9 +1770,7 @@
     "price": 1109.63,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 756
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/04/2023",
@@ -2173,9 +1779,7 @@
     "price": 405.65,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 601
+    "shipping_city": "Montreal"
   },
   {
     "date": "04/23/2023",
@@ -2184,9 +1788,7 @@
     "price": 106.87,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 765
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/28/2023",
@@ -2195,9 +1797,7 @@
     "price": 707.85,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 516
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/29/2023",
@@ -2206,9 +1806,7 @@
     "price": 1298.6,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 515
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/01/2023",
@@ -2217,9 +1815,7 @@
     "price": 435.48,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 696
+    "shipping_city": "Ottawa"
   },
   {
     "date": "09/17/2023",
@@ -2228,9 +1824,7 @@
     "price": 688.44,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 618
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/29/2023",
@@ -2239,9 +1833,7 @@
     "price": 543.3,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 698
+    "shipping_city": "Ottawa"
   },
   {
     "date": "12/28/2023",
@@ -2250,9 +1842,7 @@
     "price": 1222.87,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 516
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/06/2023",
@@ -2261,9 +1851,7 @@
     "price": 729.14,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 752
+    "shipping_city": "Ottawa"
   },
   {
     "date": "11/03/2023",
@@ -2272,9 +1860,7 @@
     "price": 606.48,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 571
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/20/2023",
@@ -2283,9 +1869,7 @@
     "price": 685.7,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 585
+    "shipping_city": "Montreal"
   },
   {
     "date": "04/03/2023",
@@ -2294,9 +1878,7 @@
     "price": 1292.87,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 785
+    "shipping_city": "Vancouver"
   },
   {
     "date": "05/14/2023",
@@ -2305,9 +1887,7 @@
     "price": 1140.75,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 744
+    "shipping_city": "Montreal"
   },
   {
     "date": "04/09/2023",
@@ -2316,9 +1896,7 @@
     "price": 517.38,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 779
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/10/2023",
@@ -2327,9 +1905,7 @@
     "price": 461.76,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 778
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/07/2023",
@@ -2338,9 +1914,7 @@
     "price": 1140.85,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 690
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/22/2023",
@@ -2349,9 +1923,7 @@
     "price": 813.17,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 766
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/23/2023",
@@ -2360,9 +1932,7 @@
     "price": 507.4,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 704
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/21/2023",
@@ -2371,9 +1941,7 @@
     "price": 688.76,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 826
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/21/2023",
@@ -2382,9 +1950,7 @@
     "price": 1071.76,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 645
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/22/2023",
@@ -2393,9 +1959,7 @@
     "price": 600.38,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 766
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/21/2023",
@@ -2404,9 +1968,7 @@
     "price": 1478.77,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 523
+    "shipping_city": "Ottawa"
   },
   {
     "date": "07/01/2023",
@@ -2415,9 +1977,7 @@
     "price": 893.69,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 696
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/08/2023",
@@ -2426,9 +1986,7 @@
     "price": 604.82,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 750
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/09/2023",
@@ -2437,9 +1995,7 @@
     "price": 1479.56,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 657
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/26/2023",
@@ -2448,9 +2004,7 @@
     "price": 382.06,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 701
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/22/2023",
@@ -2459,9 +2013,7 @@
     "price": 1077.21,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 766
+    "shipping_city": "Calgary"
   },
   {
     "date": "11/29/2023",
@@ -2470,9 +2022,7 @@
     "price": 972.83,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 545
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/01/2023",
@@ -2481,9 +2031,7 @@
     "price": 751.68,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 696
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/30/2023",
@@ -2492,9 +2040,7 @@
     "price": 1364.64,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 544
+    "shipping_city": "Calgary"
   },
   {
     "date": "09/08/2023",
@@ -2503,9 +2049,7 @@
     "price": 1348.92,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 627
+    "shipping_city": "Toronto"
   },
   {
     "date": "06/02/2023",
@@ -2514,9 +2058,7 @@
     "price": 1132.75,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 725
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/17/2023",
@@ -2525,9 +2067,7 @@
     "price": 775.84,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 649
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/22/2023",
@@ -2536,9 +2076,7 @@
     "price": 1373.23,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 705
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/10/2023",
@@ -2547,9 +2085,7 @@
     "price": 747.7,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 534
+    "shipping_city": "Montreal"
   },
   {
     "date": "11/08/2023",
@@ -2558,9 +2094,7 @@
     "price": 791.4,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 566
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/14/2023",
@@ -2569,9 +2103,7 @@
     "price": 650.83,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 833
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/05/2023",
@@ -2580,9 +2112,7 @@
     "price": 611.36,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 722
+    "shipping_city": "Ottawa"
   },
   {
     "date": "09/13/2023",
@@ -2591,9 +2121,7 @@
     "price": 130.46,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 622
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/07/2023",
@@ -2602,9 +2130,7 @@
     "price": 650.37,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 751
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/02/2023",
@@ -2613,9 +2139,7 @@
     "price": 808.76,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 725
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/05/2023",
@@ -2624,9 +2148,7 @@
     "price": 1368.19,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 814
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/29/2023",
@@ -2635,9 +2157,7 @@
     "price": 979.94,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 606
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/26/2023",
@@ -2646,9 +2166,7 @@
     "price": 1416.93,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 793
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/05/2023",
@@ -2657,9 +2175,7 @@
     "price": 79.89,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 814
+    "shipping_city": "Vancouver"
   },
   {
     "date": "06/18/2023",
@@ -2668,9 +2184,7 @@
     "price": 170.91,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 709
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/12/2023",
@@ -2679,9 +2193,7 @@
     "price": 90.01,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 532
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/19/2023",
@@ -2690,9 +2202,7 @@
     "price": 1370.15,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 708
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/24/2023",
@@ -2701,9 +2211,7 @@
     "price": 1141.66,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 854
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/04/2023",
@@ -2712,9 +2220,7 @@
     "price": 745.44,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 570
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/30/2023",
@@ -2723,9 +2229,7 @@
     "price": 621.5,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 848
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/20/2023",
@@ -2734,9 +2238,7 @@
     "price": 738.99,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 585
+    "shipping_city": "Calgary"
   },
   {
     "date": "02/04/2023",
@@ -2745,9 +2247,7 @@
     "price": 848.76,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 843
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/30/2023",
@@ -2756,9 +2256,7 @@
     "price": 470.42,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 514
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/14/2023",
@@ -2767,9 +2265,7 @@
     "price": 556.53,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 621
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/05/2023",
@@ -2778,9 +2274,7 @@
     "price": 55.69,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 783
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/03/2023",
@@ -2789,9 +2283,7 @@
     "price": 618.77,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 875
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/04/2023",
@@ -2800,9 +2292,7 @@
     "price": 1160.11,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 631
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/12/2023",
@@ -2811,9 +2301,7 @@
     "price": 327.47,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 562
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/21/2023",
@@ -2822,9 +2310,7 @@
     "price": 600.61,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 767
+    "shipping_city": "Ottawa"
   },
   {
     "date": "09/14/2023",
@@ -2833,9 +2319,7 @@
     "price": 756.18,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 621
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/19/2023",
@@ -2844,9 +2328,7 @@
     "price": 535.12,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 739
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/01/2024",
@@ -2855,9 +2337,7 @@
     "price": 884.2,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 512
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/14/2023",
@@ -2866,9 +2346,7 @@
     "price": 1095.83,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 591
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/10/2023",
@@ -2877,9 +2355,7 @@
     "price": 114.31,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 868
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/14/2023",
@@ -2888,9 +2364,7 @@
     "price": 309.29,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 744
+    "shipping_city": "Ottawa"
   },
   {
     "date": "02/09/2023",
@@ -2899,9 +2373,7 @@
     "price": 819.24,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 838
+    "shipping_city": "Ottawa"
   },
   {
     "date": "10/01/2023",
@@ -2910,9 +2382,7 @@
     "price": 1027.62,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 604
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/09/2023",
@@ -2921,9 +2391,7 @@
     "price": 1427.72,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 688
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/14/2023",
@@ -2932,9 +2400,7 @@
     "price": 621.91,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 652
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/06/2023",
@@ -2943,9 +2409,7 @@
     "price": 993.55,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 782
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/15/2023",
@@ -2954,9 +2418,7 @@
     "price": 414.13,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 804
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/25/2023",
@@ -2965,9 +2427,7 @@
     "price": 1067.43,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 519
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/11/2023",
@@ -2976,9 +2436,7 @@
     "price": 1425.55,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 747
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/14/2023",
@@ -2987,9 +2445,7 @@
     "price": 1398.7,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 713
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/29/2023",
@@ -2998,9 +2454,7 @@
     "price": 1471.8,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 759
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/24/2023",
@@ -3009,9 +2463,7 @@
     "price": 388.67,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 520
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/19/2023",
@@ -3020,9 +2472,7 @@
     "price": 457.59,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 800
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/07/2023",
@@ -3031,9 +2481,7 @@
     "price": 199.64,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 871
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/26/2023",
@@ -3042,9 +2490,7 @@
     "price": 174.85,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 609
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/24/2023",
@@ -3053,9 +2499,7 @@
     "price": 78.5,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 642
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/19/2023",
@@ -3064,9 +2508,7 @@
     "price": 108.22,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 859
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/27/2023",
@@ -3075,9 +2517,7 @@
     "price": 1385.17,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 761
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/25/2023",
@@ -3086,9 +2526,7 @@
     "price": 87.78,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 702
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/06/2023",
@@ -3097,9 +2535,7 @@
     "price": 289.2,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 599
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/22/2023",
@@ -3108,9 +2544,7 @@
     "price": 625.18,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 825
+    "shipping_city": "Vancouver"
   },
   {
     "date": "08/02/2023",
@@ -3119,9 +2553,7 @@
     "price": 779.1,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 664
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/02/2023",
@@ -3130,9 +2562,7 @@
     "price": 627.64,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 633
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/30/2023",
@@ -3141,9 +2571,7 @@
     "price": 716.08,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 758
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/21/2023",
@@ -3152,9 +2580,7 @@
     "price": 528.18,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 767
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/09/2023",
@@ -3163,9 +2589,7 @@
     "price": 798.05,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 749
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/31/2023",
@@ -3174,9 +2598,7 @@
     "price": 100.8,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 727
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/03/2023",
@@ -3185,9 +2607,7 @@
     "price": 565.58,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 694
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/19/2023",
@@ -3196,9 +2616,7 @@
     "price": 1009.29,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 678
+    "shipping_city": "Calgary"
   },
   {
     "date": "02/02/2023",
@@ -3207,9 +2625,7 @@
     "price": 542.14,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 845
+    "shipping_city": "Vancouver"
   },
   {
     "date": "09/24/2023",
@@ -3218,9 +2634,7 @@
     "price": 654.58,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 611
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/10/2023",
@@ -3229,9 +2643,7 @@
     "price": 453.54,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 748
+    "shipping_city": "Ottawa"
   },
   {
     "date": "07/30/2023",
@@ -3240,9 +2652,7 @@
     "price": 773.75,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 667
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/01/2023",
@@ -3251,9 +2661,7 @@
     "price": 1464.29,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 543
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/10/2023",
@@ -3262,9 +2670,7 @@
     "price": 1169.3,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 837
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/23/2023",
@@ -3273,9 +2679,7 @@
     "price": 1317.58,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 643
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/04/2023",
@@ -3284,9 +2688,7 @@
     "price": 1186.14,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 601
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/23/2023",
@@ -3295,9 +2697,7 @@
     "price": 803.0,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 765
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/17/2023",
@@ -3306,9 +2706,7 @@
     "price": 1014.03,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 861
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/29/2023",
@@ -3317,9 +2715,7 @@
     "price": 112.87,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 729
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/02/2023",
@@ -3328,9 +2724,7 @@
     "price": 54.97,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 664
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/01/2023",
@@ -3339,9 +2733,7 @@
     "price": 757.74,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 726
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/18/2023",
@@ -3350,9 +2742,7 @@
     "price": 944.45,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 526
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/09/2023",
@@ -3361,9 +2751,7 @@
     "price": 1007.45,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 535
+    "shipping_city": "Toronto"
   },
   {
     "date": "06/14/2023",
@@ -3372,9 +2760,7 @@
     "price": 279.59,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 713
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/13/2023",
@@ -3383,9 +2769,7 @@
     "price": 1463.58,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 806
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/20/2023",
@@ -3394,9 +2778,7 @@
     "price": 314.55,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 827
+    "shipping_city": "Ottawa"
   },
   {
     "date": "11/11/2023",
@@ -3405,9 +2787,7 @@
     "price": 1437.46,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 563
+    "shipping_city": "Vancouver"
   },
   {
     "date": "05/02/2023",
@@ -3416,9 +2796,7 @@
     "price": 50.03,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 756
+    "shipping_city": "Ottawa"
   },
   {
     "date": "10/10/2023",
@@ -3427,9 +2805,7 @@
     "price": 1069.26,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 595
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/10/2023",
@@ -3438,9 +2814,7 @@
     "price": 923.24,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 778
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/15/2023",
@@ -3449,9 +2823,7 @@
     "price": 526.1,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 804
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/07/2023",
@@ -3460,9 +2832,7 @@
     "price": 509.39,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 840
+    "shipping_city": "Vancouver"
   },
   {
     "date": "09/21/2023",
@@ -3471,9 +2841,7 @@
     "price": 1348.55,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 614
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/12/2023",
@@ -3482,9 +2850,7 @@
     "price": 633.1,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 866
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/06/2023",
@@ -3493,9 +2859,7 @@
     "price": 107.61,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 599
+    "shipping_city": "Montreal"
   },
   {
     "date": "07/05/2023",
@@ -3504,9 +2868,7 @@
     "price": 222.71,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 692
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/26/2023",
@@ -3515,9 +2877,7 @@
     "price": 1071.91,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 671
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/23/2023",
@@ -3526,9 +2886,7 @@
     "price": 393.71,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 674
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/25/2023",
@@ -3537,9 +2895,7 @@
     "price": 1186.58,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 580
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/06/2023",
@@ -3548,9 +2904,7 @@
     "price": 1452.16,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 752
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/12/2023",
@@ -3559,9 +2913,7 @@
     "price": 589.94,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 562
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/29/2023",
@@ -3570,9 +2922,7 @@
     "price": 700.37,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 515
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/23/2023",
@@ -3581,9 +2931,7 @@
     "price": 330.7,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 582
+    "shipping_city": "Montreal"
   },
   {
     "date": "07/21/2023",
@@ -3592,9 +2940,7 @@
     "price": 1451.13,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 676
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/03/2023",
@@ -3603,9 +2949,7 @@
     "price": 1444.86,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 632
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/16/2023",
@@ -3614,9 +2958,7 @@
     "price": 574.42,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 803
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/03/2023",
@@ -3625,9 +2967,7 @@
     "price": 758.9,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 785
+    "shipping_city": "Toronto"
   },
   {
     "date": "08/31/2023",
@@ -3636,9 +2976,7 @@
     "price": 1199.54,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 635
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/31/2023",
@@ -3647,9 +2985,7 @@
     "price": 962.49,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 788
+    "shipping_city": "Toronto"
   },
   {
     "date": "10/17/2023",
@@ -3658,9 +2994,7 @@
     "price": 870.78,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 588
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/06/2023",
@@ -3669,9 +3003,7 @@
     "price": 219.87,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 782
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/10/2023",
@@ -3680,9 +3012,7 @@
     "price": 614.42,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 595
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/01/2023",
@@ -3691,9 +3021,7 @@
     "price": 1161.35,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 634
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/02/2023",
@@ -3702,9 +3030,7 @@
     "price": 171.78,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 756
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/21/2023",
@@ -3713,9 +3039,7 @@
     "price": 1221.84,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 614
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/07/2023",
@@ -3724,9 +3048,7 @@
     "price": 148.23,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 840
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/22/2023",
@@ -3735,9 +3057,7 @@
     "price": 858.2,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 705
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/21/2023",
@@ -3746,9 +3066,7 @@
     "price": 841.39,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 614
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/02/2023",
@@ -3757,9 +3075,7 @@
     "price": 124.94,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 786
+    "shipping_city": "Toronto"
   },
   {
     "date": "03/26/2023",
@@ -3768,9 +3084,7 @@
     "price": 307.3,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 793
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/18/2023",
@@ -3779,9 +3093,7 @@
     "price": 282.74,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 829
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/29/2023",
@@ -3790,9 +3102,7 @@
     "price": 847.76,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 545
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/05/2023",
@@ -3801,9 +3111,7 @@
     "price": 1432.92,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 753
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/10/2023",
@@ -3812,9 +3120,7 @@
     "price": 692.22,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 778
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/17/2023",
@@ -3823,9 +3129,7 @@
     "price": 1037.51,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 680
+    "shipping_city": "Montreal"
   },
   {
     "date": "06/21/2023",
@@ -3834,9 +3138,7 @@
     "price": 1014.72,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 706
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/12/2023",
@@ -3845,9 +3147,7 @@
     "price": 1280.22,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 654
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/25/2023",
@@ -3856,9 +3156,7 @@
     "price": 1131.4,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 580
+    "shipping_city": "Ottawa"
   },
   {
     "date": "12/25/2023",
@@ -3867,9 +3165,7 @@
     "price": 1210.93,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 519
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/14/2023",
@@ -3878,9 +3174,7 @@
     "price": 164.74,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 833
+    "shipping_city": "Toronto"
   },
   {
     "date": "01/13/2023",
@@ -3889,9 +3183,7 @@
     "price": 691.18,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 865
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/15/2023",
@@ -3900,9 +3192,7 @@
     "price": 1139.54,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 620
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/25/2023",
@@ -3911,9 +3201,7 @@
     "price": 1009.13,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 549
+    "shipping_city": "Montreal"
   },
   {
     "date": "07/20/2023",
@@ -3922,9 +3210,7 @@
     "price": 874.96,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 677
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/28/2023",
@@ -3933,9 +3219,7 @@
     "price": 587.44,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 638
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/01/2023",
@@ -3944,9 +3228,7 @@
     "price": 1375.4,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 726
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/21/2023",
@@ -3955,9 +3237,7 @@
     "price": 655.55,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 523
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/31/2023",
@@ -3966,9 +3246,7 @@
     "price": 433.56,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 727
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/31/2023",
@@ -3977,9 +3255,7 @@
     "price": 302.11,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 635
+    "shipping_city": "Calgary"
   },
   {
     "date": "12/16/2023",
@@ -3988,9 +3264,7 @@
     "price": 1462.05,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 528
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/31/2023",
@@ -3999,9 +3273,7 @@
     "price": 877.64,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 847
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/10/2023",
@@ -4010,9 +3282,7 @@
     "price": 765.05,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 748
+    "shipping_city": "Montreal"
   },
   {
     "date": "06/06/2023",
@@ -4021,9 +3291,7 @@
     "price": 1311.72,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 721
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/17/2023",
@@ -4032,9 +3300,7 @@
     "price": 397.36,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 680
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/14/2023",
@@ -4043,9 +3309,7 @@
     "price": 1468.55,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 621
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/13/2023",
@@ -4054,9 +3318,7 @@
     "price": 1243.71,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 714
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/19/2023",
@@ -4065,9 +3327,7 @@
     "price": 77.56,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 525
+    "shipping_city": "Ottawa"
   },
   {
     "date": "02/11/2023",
@@ -4076,9 +3336,7 @@
     "price": 214.08,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 836
+    "shipping_city": "Montreal"
   },
   {
     "date": "05/17/2023",
@@ -4087,9 +3345,7 @@
     "price": 103.0,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 741
+    "shipping_city": "Ottawa"
   },
   {
     "date": "12/05/2023",
@@ -4098,9 +3354,7 @@
     "price": 1003.55,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 539
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/03/2023",
@@ -4109,9 +3363,7 @@
     "price": 264.59,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 694
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/26/2023",
@@ -4120,9 +3372,7 @@
     "price": 608.28,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 821
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/28/2023",
@@ -4131,9 +3381,7 @@
     "price": 504.8,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 730
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/15/2023",
@@ -4142,9 +3390,7 @@
     "price": 928.43,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 682
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/14/2023",
@@ -4153,9 +3399,7 @@
     "price": 118.52,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 621
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/27/2023",
@@ -4164,9 +3408,7 @@
     "price": 397.68,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 670
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/09/2023",
@@ -4175,9 +3417,7 @@
     "price": 1320.4,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 869
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/30/2023",
@@ -4186,9 +3426,7 @@
     "price": 744.37,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 514
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/11/2023",
@@ -4197,9 +3435,7 @@
     "price": 1450.54,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 594
+    "shipping_city": "Toronto"
   },
   {
     "date": "11/30/2023",
@@ -4208,9 +3444,7 @@
     "price": 1133.91,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 544
+    "shipping_city": "Ottawa"
   },
   {
     "date": "04/18/2023",
@@ -4219,9 +3453,7 @@
     "price": 1361.37,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 770
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/02/2023",
@@ -4230,9 +3462,7 @@
     "price": 1298.05,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 756
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/21/2023",
@@ -4241,9 +3471,7 @@
     "price": 784.57,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 614
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/28/2023",
@@ -4252,9 +3480,7 @@
     "price": 1474.04,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 699
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/18/2023",
@@ -4263,9 +3489,7 @@
     "price": 644.02,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 679
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/31/2023",
@@ -4274,9 +3498,7 @@
     "price": 1386.29,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 788
+    "shipping_city": "Ottawa"
   },
   {
     "date": "06/09/2023",
@@ -4285,9 +3507,7 @@
     "price": 1327.21,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 718
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/01/2023",
@@ -4296,9 +3516,7 @@
     "price": 535.35,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 696
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/06/2023",
@@ -4307,9 +3525,7 @@
     "price": 1066.8,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 691
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/27/2023",
@@ -4318,9 +3534,7 @@
     "price": 1255.2,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 731
+    "shipping_city": "Montreal"
   },
   {
     "date": "12/24/2023",
@@ -4329,9 +3543,7 @@
     "price": 496.49,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 520
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/17/2023",
@@ -4340,9 +3552,7 @@
     "price": 337.04,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 861
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/28/2023",
@@ -4351,9 +3561,7 @@
     "price": 726.9,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 607
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/01/2023",
@@ -4362,9 +3570,7 @@
     "price": 739.97,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 604
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/11/2023",
@@ -4373,9 +3579,7 @@
     "price": 76.75,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 686
+    "shipping_city": "Montreal"
   },
   {
     "date": "04/01/2023",
@@ -4384,9 +3588,7 @@
     "price": 690.44,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 787
+    "shipping_city": "Calgary"
   },
   {
     "date": "01/16/2023",
@@ -4395,9 +3597,7 @@
     "price": 711.24,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 862
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/23/2023",
@@ -4406,9 +3606,7 @@
     "price": 1405.02,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 674
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/10/2023",
@@ -4417,9 +3615,7 @@
     "price": 185.09,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 837
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/29/2023",
@@ -4428,9 +3624,7 @@
     "price": 463.42,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 637
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/17/2023",
@@ -4439,9 +3633,7 @@
     "price": 300.47,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 649
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/22/2023",
@@ -4450,9 +3642,7 @@
     "price": 534.95,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 583
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/03/2023",
@@ -4461,9 +3651,7 @@
     "price": 278.1,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 844
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/22/2023",
@@ -4472,9 +3660,7 @@
     "price": 159.96,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 675
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/28/2023",
@@ -4483,9 +3669,7 @@
     "price": 1322.88,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 850
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/01/2023",
@@ -4494,9 +3678,7 @@
     "price": 471.2,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 543
+    "shipping_city": "Vancouver"
   },
   {
     "date": "12/07/2023",
@@ -4505,9 +3687,7 @@
     "price": 1417.38,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 537
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/19/2023",
@@ -4516,9 +3696,7 @@
     "price": 1140.54,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 616
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/28/2023",
@@ -4527,9 +3705,7 @@
     "price": 1497.55,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 607
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/14/2023",
@@ -4538,9 +3714,7 @@
     "price": 58.5,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 805
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/01/2023",
@@ -4549,9 +3723,7 @@
     "price": 73.19,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 877
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/16/2023",
@@ -4560,9 +3732,7 @@
     "price": 1488.48,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 558
+    "shipping_city": "Calgary"
   },
   {
     "date": "09/25/2023",
@@ -4571,9 +3741,7 @@
     "price": 832.63,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 610
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/21/2023",
@@ -4582,9 +3750,7 @@
     "price": 690.32,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 584
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/04/2023",
@@ -4593,9 +3759,7 @@
     "price": 985.75,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 693
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/21/2023",
@@ -4604,9 +3768,7 @@
     "price": 606.01,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 857
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/22/2023",
@@ -4615,9 +3777,7 @@
     "price": 1335.67,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 613
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/17/2023",
@@ -4626,9 +3786,7 @@
     "price": 1446.54,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 861
+    "shipping_city": "Ottawa"
   },
   {
     "date": "07/17/2023",
@@ -4637,9 +3795,7 @@
     "price": 1108.53,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 680
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/29/2023",
@@ -4648,9 +3804,7 @@
     "price": 1442.36,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 637
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/07/2023",
@@ -4659,9 +3813,7 @@
     "price": 1165.2,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 781
+    "shipping_city": "Ottawa"
   },
   {
     "date": "12/02/2023",
@@ -4670,9 +3822,7 @@
     "price": 1401.23,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 542
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/28/2023",
@@ -4681,9 +3831,7 @@
     "price": 721.3,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 791
+    "shipping_city": "Vancouver"
   },
   {
     "date": "09/16/2023",
@@ -4692,9 +3840,7 @@
     "price": 1218.52,
     "quantity": 4,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 619
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/31/2023",
@@ -4703,9 +3849,7 @@
     "price": 1382.22,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 788
+    "shipping_city": "Calgary"
   },
   {
     "date": "09/29/2023",
@@ -4714,9 +3858,7 @@
     "price": 50.92,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 606
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/23/2023",
@@ -4725,9 +3867,7 @@
     "price": 902.72,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 735
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/04/2023",
@@ -4736,9 +3876,7 @@
     "price": 1229.83,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 570
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/15/2023",
@@ -4747,9 +3885,7 @@
     "price": 500.3,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 620
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/09/2023",
@@ -4758,9 +3894,7 @@
     "price": 753.26,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 688
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/14/2023",
@@ -4769,9 +3903,7 @@
     "price": 444.14,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 652
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/21/2023",
@@ -4780,9 +3912,7 @@
     "price": 1465.17,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 767
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/01/2023",
@@ -4791,9 +3921,7 @@
     "price": 245.87,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 726
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/05/2023",
@@ -4802,9 +3930,7 @@
     "price": 95.7,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 873
+    "shipping_city": "Calgary"
   },
   {
     "date": "01/01/2024",
@@ -4813,9 +3939,7 @@
     "price": 557.93,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 512
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/06/2023",
@@ -4824,9 +3948,7 @@
     "price": 1418.89,
     "quantity": 2,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 813
+    "shipping_city": "Calgary"
   },
   {
     "date": "04/19/2023",
@@ -4835,9 +3957,7 @@
     "price": 428.77,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 769
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/02/2023",
@@ -4846,9 +3966,7 @@
     "price": 75.93,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 695
+    "shipping_city": "Ottawa"
   },
   {
     "date": "07/21/2023",
@@ -4857,9 +3975,7 @@
     "price": 1025.89,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 676
+    "shipping_city": "Ottawa"
   },
   {
     "date": "08/09/2023",
@@ -4868,9 +3984,7 @@
     "price": 440.36,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 657
+    "shipping_city": "Vancouver"
   },
   {
     "date": "11/20/2023",
@@ -4879,9 +3993,7 @@
     "price": 747.06,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 554
+    "shipping_city": "Calgary"
   },
   {
     "date": "11/03/2023",
@@ -4890,9 +4002,7 @@
     "price": 80.7,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 571
+    "shipping_city": "Montreal"
   },
   {
     "date": "04/24/2023",
@@ -4901,9 +4011,7 @@
     "price": 827.69,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 764
+    "shipping_city": "Vancouver"
   },
   {
     "date": "01/10/2023",
@@ -4912,9 +4020,7 @@
     "price": 738.78,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 868
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/11/2023",
@@ -4923,9 +4029,7 @@
     "price": 504.07,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 867
+    "shipping_city": "Ottawa"
   },
   {
     "date": "01/12/2023",
@@ -4934,9 +4038,7 @@
     "price": 1229.5,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 866
+    "shipping_city": "Calgary"
   },
   {
     "date": "03/07/2023",
@@ -4945,9 +4047,7 @@
     "price": 719.21,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 812
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/09/2023",
@@ -4956,9 +4056,7 @@
     "price": 627.49,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 596
+    "shipping_city": "Calgary"
   },
   {
     "date": "07/09/2023",
@@ -4967,9 +4065,7 @@
     "price": 866.28,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 688
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/08/2023",
@@ -4978,9 +4074,7 @@
     "price": 674.04,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 870
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/10/2023",
@@ -4989,9 +4083,7 @@
     "price": 1276.66,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 595
+    "shipping_city": "Toronto"
   },
   {
     "date": "02/14/2023",
@@ -5000,9 +4092,7 @@
     "price": 1460.95,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 833
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/20/2023",
@@ -5011,9 +4101,7 @@
     "price": 435.25,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 585
+    "shipping_city": "Montreal"
   },
   {
     "date": "09/02/2023",
@@ -5022,9 +4110,7 @@
     "price": 188.67,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 633
+    "shipping_city": "Vancouver"
   },
   {
     "date": "09/13/2023",
@@ -5033,9 +4119,7 @@
     "price": 1478.38,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Ottawa",
-    "discount": 20,
-    "days_since_purchase": 622
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/04/2023",
@@ -5044,9 +4128,7 @@
     "price": 134.63,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 754
+    "shipping_city": "Toronto"
   },
   {
     "date": "05/24/2023",
@@ -5055,9 +4137,7 @@
     "price": 905.06,
     "quantity": 2,
     "coupon_code": "SAVE10",
-    "shipping_city": "Montreal",
-    "discount": 10,
-    "days_since_purchase": 734
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/01/2023",
@@ -5066,9 +4146,7 @@
     "price": 582.26,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 877
+    "shipping_city": "Calgary"
   },
   {
     "date": "11/20/2023",
@@ -5077,9 +4155,7 @@
     "price": 559.73,
     "quantity": 1,
     "coupon_code": "SAVE20",
-    "shipping_city": "Vancouver",
-    "discount": 20,
-    "days_since_purchase": 554
+    "shipping_city": "Vancouver"
   },
   {
     "date": "05/27/2023",
@@ -5088,9 +4164,7 @@
     "price": 1063.65,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 731
+    "shipping_city": "Calgary"
   },
   {
     "date": "01/02/2023",
@@ -5099,9 +4173,7 @@
     "price": 1449.31,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 876
+    "shipping_city": "Toronto"
   },
   {
     "date": "09/15/2023",
@@ -5110,9 +4182,7 @@
     "price": 369.44,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 620
+    "shipping_city": "Vancouver"
   },
   {
     "date": "10/09/2023",
@@ -5121,9 +4191,7 @@
     "price": 589.31,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 596
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/04/2023",
@@ -5132,9 +4200,7 @@
     "price": 102.0,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 540
+    "shipping_city": "Montreal"
   },
   {
     "date": "11/02/2023",
@@ -5143,9 +4209,7 @@
     "price": 1374.12,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 572
+    "shipping_city": "Calgary"
   },
   {
     "date": "11/25/2023",
@@ -5154,9 +4218,7 @@
     "price": 65.59,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 549
+    "shipping_city": "Vancouver"
   },
   {
     "date": "07/21/2023",
@@ -5165,9 +4227,7 @@
     "price": 630.21,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 676
+    "shipping_city": "Ottawa"
   },
   {
     "date": "09/01/2023",
@@ -5176,9 +4236,7 @@
     "price": 871.74,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 634
+    "shipping_city": "Vancouver"
   },
   {
     "date": "02/11/2023",
@@ -5187,9 +4245,7 @@
     "price": 739.48,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 836
+    "shipping_city": "Calgary"
   },
   {
     "date": "11/14/2023",
@@ -5198,9 +4254,7 @@
     "price": 963.85,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 560
+    "shipping_city": "Montreal"
   },
   {
     "date": "06/22/2023",
@@ -5209,9 +4263,7 @@
     "price": 1353.29,
     "quantity": 5,
     "coupon_code": "SAVE10",
-    "shipping_city": "Ottawa",
-    "discount": 10,
-    "days_since_purchase": 705
+    "shipping_city": "Ottawa"
   },
   {
     "date": "12/07/2023",
@@ -5220,9 +4272,7 @@
     "price": 508.33,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 537
+    "shipping_city": "Ottawa"
   },
   {
     "date": "03/24/2023",
@@ -5231,9 +4281,7 @@
     "price": 578.29,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 795
+    "shipping_city": "Vancouver"
   },
   {
     "date": "04/04/2023",
@@ -5242,9 +4290,7 @@
     "price": 1422.08,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 784
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/20/2023",
@@ -5253,9 +4299,7 @@
     "price": 346.0,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 768
+    "shipping_city": "Ottawa"
   },
   {
     "date": "11/28/2023",
@@ -5264,9 +4308,7 @@
     "price": 571.99,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 546
+    "shipping_city": "Calgary"
   },
   {
     "date": "06/19/2023",
@@ -5275,9 +4317,7 @@
     "price": 1306.89,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 708
+    "shipping_city": "Toronto"
   },
   {
     "date": "03/13/2023",
@@ -5286,9 +4326,7 @@
     "price": 1274.34,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 806
+    "shipping_city": "Toronto"
   },
   {
     "date": "08/24/2023",
@@ -5297,9 +4335,7 @@
     "price": 386.15,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 642
+    "shipping_city": "Montreal"
   },
   {
     "date": "01/25/2023",
@@ -5308,9 +4344,7 @@
     "price": 121.84,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 853
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/05/2023",
@@ -5319,9 +4353,7 @@
     "price": 395.5,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 692
+    "shipping_city": "Calgary"
   },
   {
     "date": "10/08/2023",
@@ -5330,9 +4362,7 @@
     "price": 1250.24,
     "quantity": 1,
     "coupon_code": NaN,
-    "shipping_city": "Ottawa",
-    "discount": 0,
-    "days_since_purchase": 597
+    "shipping_city": "Ottawa"
   },
   {
     "date": "05/19/2023",
@@ -5341,9 +4371,7 @@
     "price": 157.35,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 739
+    "shipping_city": "Montreal"
   },
   {
     "date": "08/25/2023",
@@ -5352,9 +4380,7 @@
     "price": 120.62,
     "quantity": 3,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 641
+    "shipping_city": "Montreal"
   },
   {
     "date": "10/07/2023",
@@ -5363,9 +4389,7 @@
     "price": 1256.42,
     "quantity": 4,
     "coupon_code": "SAVE20",
-    "shipping_city": "Calgary",
-    "discount": 20,
-    "days_since_purchase": 598
+    "shipping_city": "Calgary"
   },
   {
     "date": "05/09/2023",
@@ -5374,9 +4398,7 @@
     "price": 183.9,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 749
+    "shipping_city": "Vancouver"
   },
   {
     "date": "05/09/2023",
@@ -5385,9 +4407,7 @@
     "price": 1246.37,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 749
+    "shipping_city": "Toronto"
   },
   {
     "date": "04/11/2023",
@@ -5396,9 +4416,7 @@
     "price": 981.74,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Calgary",
-    "discount": 0,
-    "days_since_purchase": 777
+    "shipping_city": "Calgary"
   },
   {
     "date": "02/16/2023",
@@ -5407,9 +4425,7 @@
     "price": 280.18,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 831
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/23/2023",
@@ -5418,9 +4434,7 @@
     "price": 576.72,
     "quantity": 3,
     "coupon_code": "SAVE10",
-    "shipping_city": "Vancouver",
-    "discount": 10,
-    "days_since_purchase": 521
+    "shipping_city": "Vancouver"
   },
   {
     "date": "03/02/2023",
@@ -5429,9 +4443,7 @@
     "price": 762.23,
     "quantity": 4,
     "coupon_code": NaN,
-    "shipping_city": "Montreal",
-    "discount": 0,
-    "days_since_purchase": 817
+    "shipping_city": "Montreal"
   },
   {
     "date": "02/01/2023",
@@ -5440,9 +4452,7 @@
     "price": 944.64,
     "quantity": 5,
     "coupon_code": "SAVE20",
-    "shipping_city": "Montreal",
-    "discount": 20,
-    "days_since_purchase": 846
+    "shipping_city": "Montreal"
   },
   {
     "date": "03/25/2023",
@@ -5451,9 +4461,7 @@
     "price": 1161.51,
     "quantity": 2,
     "coupon_code": NaN,
-    "shipping_city": "Vancouver",
-    "discount": 0,
-    "days_since_purchase": 794
+    "shipping_city": "Vancouver"
   },
   {
     "date": "08/03/2023",
@@ -5462,9 +4470,7 @@
     "price": 1494.26,
     "quantity": 5,
     "coupon_code": NaN,
-    "shipping_city": "Toronto",
-    "discount": 0,
-    "days_since_purchase": 663
+    "shipping_city": "Toronto"
   },
   {
     "date": "12/03/2023",
@@ -5473,9 +4479,7 @@
     "price": 461.51,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Calgary",
-    "discount": 10,
-    "days_since_purchase": 541
+    "shipping_city": "Calgary"
   },
   {
     "date": "08/29/2023",
@@ -5484,9 +4488,7 @@
     "price": 957.39,
     "quantity": 1,
     "coupon_code": "SAVE10",
-    "shipping_city": "Toronto",
-    "discount": 10,
-    "days_since_purchase": 637
+    "shipping_city": "Toronto"
   },
   {
     "date": "07/31/2023",
@@ -5495,8 +4497,6 @@
     "price": 330.36,
     "quantity": 3,
     "coupon_code": "SAVE20",
-    "shipping_city": "Toronto",
-    "discount": 20,
-    "days_since_purchase": 666
+    "shipping_city": "Toronto"
   }
 ]
