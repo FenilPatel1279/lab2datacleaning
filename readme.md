@@ -11,14 +11,8 @@ In this project, a realistic e-commerce dataset with 500 transactions is subject
 # Create a virtual environment
 python -m venv venv
 
-# Activate it
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
+
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch Jupyter
-jupyter notebook
